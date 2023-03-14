@@ -1,0 +1,19 @@
+th{
+    border: 1px solid black;
+    background-color: rgb(56,55,55);
+    color: white;
+    width: 80px;
+    height: 30px;
+}
+td{
+    border: 1px solid black;
+    height:  10px;
+}
+.Marks{
+    width: 50px;
+}
+body{
+    position: relative;
+    left: 550px;
+    top: 100px;
+}

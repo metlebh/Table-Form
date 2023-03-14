@@ -1,0 +1,59 @@
+table{
+    border: 1px solid black;
+    background-color: aqua;
+    padding: 5px;
+    
+
+}
+th {
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    
+}
+
+.monday1{
+    background-color:orange;
+}
+
+.monday2{
+    background-color:blue;
+}
+
+.tuesday1{
+    background-color: orange;
+}
+
+.tuesday2{
+    background-color:orange;
+}
+
+.tuesday3{
+    background-color:orange;
+}
+
+.tuesday4{
+    background-color:green;
+}
+
+.tuesday5{
+    background-color:green;
+}
+
+.tuesday6{
+    background-color:blue;
+}
+
+.wendsday1{
+    background-color:orange;
+}
+
+.wendsday2{
+    background-color:green;
+}
+body{
+    position: relative;
+    left: 450px;
+    top: 80px;
+}
